@@ -15,4 +15,4 @@ DevD Name: Tananonthiphat Mutharpathcharapornkhul 663380109-1
 DevF Name: Thanawat Noitamyae 663380107-5
 
 #Cybersecurity Editor
-DevF Name: Watchara supasuk 663380475-6
+DevZ Name: Watchara supasuk 663380475-6
